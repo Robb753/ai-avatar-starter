@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="root">
       <Head>
-        <title>AI Avatar Generator | buildspace</title>
+        <title>Silly picture generator | buildspace</title>
       </Head>
       <div className="container">
         <div className="header">
@@ -14,7 +14,7 @@ const Home = () => {
             <h1>your generator one-liner</h1>
           </div>
           <div className="header-subtitle">
-            <h2>description of your generator</h2>
+            <h2> Turn me into anyone you want! Make sure you refer to me as "Robb" in the prompt</h2>
           </div>
         </div>
       </div>
